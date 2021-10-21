@@ -23,6 +23,7 @@ class HelloFinalVariables {
         System.out.printf("Inside m1(), fv1 = %d, fv2 = %d\n", fv1, fv2);
 
         v1++; // OK, v1 is not final
+        System.out.printf("v1 : %d",v1);
         // fv1++; // fv1 cannot be modified because it is final
         // fv2++; // as above
     }

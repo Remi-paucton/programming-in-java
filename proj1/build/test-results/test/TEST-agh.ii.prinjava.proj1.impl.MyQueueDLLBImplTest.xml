@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ii.prinjava.proj1.impl.MyQueueDLLBImplTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-10-21T19:33:02" hostname="LAPTOP-VDLL7IJU" time="0.023">
+  <properties/>
+  <testcase name="enqueuList()" classname="agh.ii.prinjava.proj1.impl.MyQueueDLLBImplTest" time="0.021"/>
+  <testcase name="dequeueList()" classname="agh.ii.prinjava.proj1.impl.MyQueueDLLBImplTest" time="0.001"/>
+  <testcase name="countTheElemOfQueue()" classname="agh.ii.prinjava.proj1.impl.MyQueueDLLBImplTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
