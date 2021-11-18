@@ -1,8 +1,8 @@
 package agh.ii.prinjava.proj1.impl;
 
-import org.junit.jupiter.api.*;
+    import org.junit.jupiter.api.*;
 
-import static org.junit.jupiter.api.Assertions.*;
+    import static org.junit.jupiter.api.Assertions.*;
 
 class DLinkListTest {
     DLinkList<Integer> dLinkList = new DLinkList<>();
